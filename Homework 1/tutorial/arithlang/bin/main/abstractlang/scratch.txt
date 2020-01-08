@@ -1,0 +1,8 @@
+        -----Terminals-----
+       e: even numbers
+       o: odd numbers
+       u: unknown values
+       (op) *: same as ArithLang but only able compute 2 operands
+       (op) +: same as ArithLang but only able compute 2 operands
+
+       can check if .contains("u") then == u or error
